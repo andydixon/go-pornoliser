@@ -1,2 +1,2 @@
 # go-pornoliser
-A migration of the pornolizer to Golang
+A migration of the pornolize.com to Golang CLI
